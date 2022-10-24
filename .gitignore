@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+split_signals*
+audio_analysis.ipynb
 # C extensions
 *.so
 
