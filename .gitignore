@@ -6,7 +6,7 @@ split_signals*
 audio_analysis.ipynb
 # C extensions
 *.so
-
+stations.fusa
 # Distribution / packaging
 .Python
 build/
